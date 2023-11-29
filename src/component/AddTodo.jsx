@@ -1,4 +1,3 @@
-//Add Todo component:
 
 import React from "react";
 
