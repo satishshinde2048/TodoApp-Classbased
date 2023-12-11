@@ -22,7 +22,6 @@
 
 + Class Component
 
-+ Http call(Ajax call)
      
      
 ### `Run Locally`
